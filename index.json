@@ -1,5 +1,16 @@
 [
   {
+    "slug": "testfligh",
+    "title": "Test flight",
+    "description": "major thanks to openAI for taking my job!",
+    "date": "2026-09-22",
+    "language": "en",
+    "tags": [
+      "random",
+      "ai"
+    ]
+  },
+  {
     "slug": "markdown-kitchen-sink",
     "title": "Markdown Kitchen Sink: A Formatting Test Post",
     "date": "2026-09-22",
