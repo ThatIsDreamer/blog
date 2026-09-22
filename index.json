@@ -1,5 +1,16 @@
 [
   {
+    "slug": "markdown-kitchen-sink",
+    "title": "Markdown Kitchen Sink: A Formatting Test Post",
+    "date": "2026-09-22",
+    "description": "A test post covering headings, lists, tables, code, images, quotes, and more so I can check how my site renders Markdown.",
+    "tags": [
+      "test",
+      "markdown",
+      "formatting"
+    ]
+  },
+  {
     "slug": "test",
     "title": "This is a test blog post",
     "date": "2026-05-31",
